@@ -1,0 +1,13 @@
+# Various user options
+*.suo
+*.user
+*.sdf
+*.opensdf
+
+# Compiler-generated data directories
+*/bin/
+*/obj/
+
+# Output binary directories
+Debug
+Release
